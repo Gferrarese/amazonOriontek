@@ -1,0 +1,40 @@
+Readme:
+========
+Project: AmazonOriontek
+
+This repository contains project for the challenge for Oriontek using Selenium WebDriver with Python and Pycharm
+==================================================================================
+
+Setup Instructions
+Python Setup
+OS : Windows
+Python version: 3.8.3
+You can download the latest Python version from Python.org.
+
+==================================================================================
+For virtualization: pipenv.
+To install pipenv, run pip install pipenv from the command line.
+
+For Python editor: Pycharm 2020.2.3
+
+WebDriver Setup
+Browser: Chrome version 86.0.4240.75
+
+Install the chromeDriver according to the Chrome version
+
+==================================================================================
+Create a folder for the project cloned from Github and Move the executables files into this folder.
+
+
+Project Setup
+Clone this repository.
+Run cd project cloned to enter the project.
+
+Run pipenv install to install the dependencies.
+Run pipenv run python -m pytest to verify that the framework can run tests.
+
+Run pipenv install pytest from within the project directory.
+
+Install Python packages directly using pip.
+
+Run tests directly using python -m pytest. <----
