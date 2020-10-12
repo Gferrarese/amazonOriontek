@@ -27,7 +27,7 @@ Create a folder for the project cloned from Github and Move the executables file
 
 
 Project Setup
-Clone this repository.
+Clone this repository https://github.com/Gferrarese/amazonOriontek.git.
 Run cd project cloned to enter the project.
 
 Run pipenv install to install the dependencies.
